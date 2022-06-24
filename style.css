@@ -1,6 +1,8 @@
 body {
 	background: #f7f7f7;
 	font-family: Verdana;
+	max-width: 900px;
+	margin: auto;
 }
 .photo {
 	border: 1px solid #505050;
@@ -23,6 +25,7 @@ a{
 	font-style: italic;
 	margin: 0;
 	margin-bottom: 15px;
+	text-align: justify;
 }
 .post {
 	background: #fff;
@@ -38,6 +41,7 @@ a{
 }
 .post_image{
 	margin-bottom: 15px;
+	width: 100%
 }
 .contact_list{
 	list-style-type: none;
